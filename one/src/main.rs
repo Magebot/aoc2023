@@ -1,5 +1,3 @@
-// use std::fs;
-
 use std::fs;
 
 fn main() {
